@@ -1,4 +1,4 @@
-▌ SftpQS — SSH FTP Quick Setup
+▌ Sftp-QS — SSH FTP Quick Setup
 
 A simple automation script for quickly setting up an SFTP server on Microsoft Windows 11.
 
