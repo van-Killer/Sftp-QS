@@ -16,6 +16,8 @@ This script automates the process of configuring an SFTP server on Windows 11, e
 
 2. Run the script using PowerShell with administrative privileges (Run as Administrator).
 
+3. Use yor SFTP preferred client to connect this server. 
+
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 ▌ ✨ Features
